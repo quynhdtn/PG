@@ -1,0 +1,30 @@
+<domain>
+    <person>
+        <medicalprofessional>doctor</medicalprofessional>
+        <medicalprofessional>general-practitioner</medicalprofessional>
+        <medicalprofessional>radiologist</medicalprofessional>
+        <medicalprofessional>psychologist</medicalprofessional>
+        <medicalprofessional>dietician</medicalprofessional>
+        <medicalprofessional>lab-technician</medicalprofessional>
+        <medicalprofessional>nurse</medicalprofessional>
+        <medicalprofessional>surgeon</medicalprofessional>
+        <medicalprofessional>anaesthetist</medicalprofessional>
+        <medicalprofessional>endocrinologist</medicalprofessional>
+        <medicalprofessional>nutritionist</medicalprofessional>
+        <medicalprofessional>psychiatrist</medicalprofessional>
+        <medicalprofessional>cardiologist</medicalprofessional>
+        <medicalprofessional>dentist</medicalprofessional>
+        <medicalprofessional>digestive-surgeon</medicalprofessional>
+        <medicalprofessional>viceral-surgeon</medicalprofessional>
+        <patient>patient</patient>
+    </person>
+
+    <staffloc>office</staffloc>
+    <staffloc>oncallroom</staffloc>
+    <staffloc>staffroom</staffloc>
+    <generalloc>reception</generalloc>
+
+
+
+
+</domain>
